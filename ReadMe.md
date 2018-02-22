@@ -57,3 +57,4 @@ If you have any issues, please feel free to contact us at:
 * Facebook License applies to React
 
 Copyright (c) 2018 **Sam Kissee & Cat Janowitz**
+
